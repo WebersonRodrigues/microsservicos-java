@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "api-restfull-com-alunos"
+		},
+		{
+			"name": "eureka-server",
+			"path": "eureka-server"
+		},
+		{
+			"name": "zuul-service",
+			"path": "zuul-service"
+		}
+	]
+}
