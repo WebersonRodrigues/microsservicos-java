@@ -31,7 +31,7 @@
 			<version>2.2.5.RELEASE</version>
 		</dependency>
 
-
+		<!-- GateWay -->
 		<dependency>
 			<groupId>org.springframework.cloud</groupId>
 			<artifactId>spring-cloud-starter-netflix-zuul</artifactId>
